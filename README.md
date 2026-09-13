@@ -31,8 +31,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=putrifajarr&label=PROFILE+VIEWS&color=0543F0&style=flat-square"/>
-
 </div>
 
 ---
