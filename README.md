@@ -168,7 +168,7 @@ and opportunities to build useful digital products.
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Design+%C2%B7+Engineering+%C2%B7+AI;Ideas+into+digital+experiences.;Build+something+meaningful." alt="Closing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Design+%C2%B7+Engineering+%C2%B7+AI;Ideas+into+digital+experiences.;Build+something+meaningful." alt="Closing animation" />
 </p>
 
 <br/><br/>
