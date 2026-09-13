@@ -4,7 +4,7 @@
 
 # Hi, I'm Putri Fajar 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=23&duration=2800&pause=1000&color=0543F0&center=true&vCenter=true&width=720&lines=Web+Designer+%C2%B7+Web+Developer+%C2%B7+AI+Product+Engineer;Designing+ideas.+Engineering+possibilities.;Turning+ideas+into+digital+experiences." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=26&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&lines=Web+Designer+%C2%B7+Web+Developer+%C2%B7+AI+Product+Engineer;Designing+ideas.+Engineering+possibilities.;Turning+ideas+into+digital+experiences." alt="Typing SVG" />
 
 <p>
   <em>
@@ -140,7 +140,9 @@ product experiences.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=putrifajarr&hide_border=true&background=ffffff&ring=0543F0&fire=0543F0&currStreakLabel=0543F0&sideNums=444444&sideLabels=666666&dates=888888" width="500"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=putrifajarr&hide_border=true&background=0543F0&ring=FFB703&fire=FFB703&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" width="500"/>
 
 </div>
 
@@ -165,7 +167,9 @@ and opportunities to build useful digital products.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&duration=3500&pause=1000&color=0543F0&center=true&vCenter=true&width=520&lines=Design+%C2%B7+Engineering+%C2%B7+AI;Ideas+into+digital+experiences.;Build+something+meaningful." alt="Closing animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Design+%C2%B7+Engineering+%C2%B7+AI;Ideas+into+digital+experiences.;Build+something+meaningful." alt="Closing animation" />
+</p>
 
 <br/><br/>
 
